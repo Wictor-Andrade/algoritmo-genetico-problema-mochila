@@ -53,6 +53,6 @@ public class Main {
 
 ## Melhor Resultado Obtido Durante Os Testes
 
-![Melhor Resultado](https://prnt.sc/4LyE5oVGcclC)
+![image](https://github.com/user-attachments/assets/7adb0379-83c9-4db2-8c04-7837a2ffc906)
 
 The fitness of our best solution: 25842.560000000005 Its generation was 13
